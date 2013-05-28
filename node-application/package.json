@@ -1,0 +1,16 @@
+{
+  "name": "node-application",
+  "version": "0.0.0",
+  "description": "Part of the Chinese Dolls proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "embedding"
+  ],
+  "author": "dvberkel",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
