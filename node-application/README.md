@@ -35,7 +35,12 @@ one can run `grunt` with the following command
 grunt
 ```
 
-This runs the default task.
+This runs the default task. To run a differet task provide it as an
+argument to `grunt`. E.g.
+
+```shell
+grunt jasmine
+```
 
 [node]: http://nodejs.org/
 [npm]: https://npmjs.org/
